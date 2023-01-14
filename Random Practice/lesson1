@@ -1,0 +1,34 @@
+character_name = "rach"
+character_age = "30"
+is_male = False
+if is_male == False:
+    print("my name is " + character_name + " and her age is " + character_age)
+elif is_male == True:
+    character_name = "mike"
+    print("my name is " + character_name + " and his age is " + character_age )
+
+#Function is a block of code used to perform a specific operation / collection of instruction/ collection of code
+# to define a function ise this : def func_name ():
+# give it 4 spaces after function def line to define the function 
+#A function can be mapping
+
+def function_name1():
+    print("sing")
+    print("song")
+print("This is outside the func definition")
+function_name1()
+function_name1()
+#Example of a function definition with 1 argument and 1 return value. Here the argument is 'x' and the return value is '2*x'
+def function2(x):
+    return 2*x
+a = function2(3)
+print(a)
+b = function2(10000)
+print(b)
+
+#Function takes 2 arguments and returns 1 value:
+def func2(a, b):
+    print (a,b)
+
+#Method is a fuction associated with a class; Class provides a way to build data and functionality together. ./
+
