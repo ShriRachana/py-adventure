@@ -4,7 +4,8 @@
 
 # Topic : Immigration
     - Summary : H1B with an approved I-140
+        - Current Situiation : Affected by layoffs 
 
 # Topic : Contact
     - E-mail : shrirachanar@gmail.com 
-    - LinkedIn : https://www.linkedin.com/in/shrirachana/
+        - LinkedIn : https://www.linkedin.com/in/shrirachana/
