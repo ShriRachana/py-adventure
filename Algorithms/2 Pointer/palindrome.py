@@ -27,4 +27,20 @@ def main():
 if __name__ == '__main__':
     main()
 
-        
+""" 
+Time complexity
+time complexity is O(n)
+where n is the number of characters present in the string.
+
+Space complexity
+The space complexity is O(1)
+because we use constant space to store two indices.
+"""
+
+
+"""
+It Allows You to Execute Code When the File Runs as a Script, 
+but Not When It’s Imported as a Module
+Think of the conditional block that you open with if __name__ == "__main__" as a way to store code,
+that should only run when your file is executed as a script.
+"""
