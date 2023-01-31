@@ -1,0 +1,17 @@
+1675121729432	geckodriver	INFO	Listening on 127.0.0.1:58002
+1675122097112	geckodriver	INFO	Listening on 127.0.0.1:58104
+1675122097548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "58105" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/l5/hz8xd3v539n_25sw19dk0h5w0000gn/T/rust_mozprofiletZGMVL"
+1675122097844	Marionette	INFO	Marionette enabled
+1675122097970	Marionette	INFO	Listening on port 58112
+Read port: 58112
+WebDriver BiDi listening on ws://127.0.0.1:58105
+1675122098063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/l5/hz8xd3v539n_25sw19dk0h5w0000gn/T/rust_mozprofiletZGMVL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58105/devtools/browser/d5be2e1b-579a-4398-8d1b-95689134fa3b
+JavaScript error: https://rahulshettyacademy.com/seleniumPractise/main.4acd6ebce6dff3b5152c.js, line 6: Error: Request aborted
+1675122111486	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:204:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.sys.mjs:2446:11
+1675122112062	Marionette	INFO	Stopped listening on port 58112
