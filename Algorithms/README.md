@@ -23,7 +23,7 @@
         - Question 2 : 
     - Additional Reading material 
 
-#Topic : "Interview Kickstarter" has the following sub-sections :
+# Topic : "Interview Kickstarter" has the following sub-sections :
 
 ## Topic : Orientation 
     - Foundation notes 
@@ -34,7 +34,7 @@
     - My notes 
     - Pratice set 
 
-#Topic : "LeetCode" has the following sub-sections :
+# Topic : "LeetCode" has the following sub-sections :
 
 ## Topic : 2-sum 
     - Question :  
@@ -48,8 +48,7 @@
     - Solution 2 : O(n) 
     - My notes
 
-
-#Topic : "Neetcode" has the following sub-sections :
+# Topic : "Neetcode" has the following sub-sections :
 
 ## Topic : 2-sum 
     - Question :  
@@ -63,7 +62,7 @@
     - Solution 2 : O(n) 
     - My notes
 
-#Topic : "Educative-io" has the following sub-sections :
+# Topic : "Educative-io" has the following sub-sections :
 
 ## Topic : 2-sum 
     - Question :  
