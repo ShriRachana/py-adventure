@@ -7,17 +7,72 @@
     Some of the stuff used in everyday programming : Array, Stack, LinkedList
 
 
-# Topic : 2 Pointer
+#Topic : "Algos practice" has the following sub-sections :
+## Topic : 2 Pointer
 
     - Algorithm Summary
         - Pseudo Code in Python
         - Question 1 : Palindrom 
         - Question 2 : 
     - Additional Reading material 
-# Topic : 2 Sliding Window 
+## Topic : 2 Sliding Window 
     
     - Algorithm Summary
         - Pseudo Code in Python
         - Question 1 : 
         - Question 2 : 
     - Additional Reading material 
+
+#Topic : "Interview Kickstarter" has the following sub-sections :
+
+## Topic : Orientation 
+    - Foundation notes 
+    - My notes 
+## Topic : Python 1 
+
+    - Foundation Video notes 
+    - My notes 
+    - Pratice set 
+
+#Topic : "LeetCode" has the following sub-sections :
+
+## Topic : 2-sum 
+    - Question :  
+    - solution 1 : Brute Force
+    - Solution 2 : O(n) 
+    - My notes
+## Topic : 3 -Sum 
+
+    - Question :  
+    - solution 1 : Brute Force
+    - Solution 2 : O(n) 
+    - My notes
+
+
+#Topic : "Neetcode" has the following sub-sections :
+
+## Topic : 2-sum 
+    - Question :  
+    - solution 1 : Brute Force
+    - Solution 2 : O(n) 
+    - My notes
+## Topic : 3 -Sum 
+
+    - Question :  
+    - solution 1 : Brute Force
+    - Solution 2 : O(n) 
+    - My notes
+
+#Topic : "Educative-io" has the following sub-sections :
+
+## Topic : 2-sum 
+    - Question :  
+    - solution 1 : Brute Force
+    - Solution 2 : O(n) 
+    - My notes
+## Topic : 3 -Sum 
+
+    - Question :  
+    - solution 1 : Brute Force
+    - Solution 2 : O(n) 
+    - My notes
