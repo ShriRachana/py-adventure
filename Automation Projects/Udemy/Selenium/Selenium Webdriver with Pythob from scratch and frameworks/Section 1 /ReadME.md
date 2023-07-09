@@ -1,1 +1,5 @@
-Introduction to the course and its notes (Rahul Shetty - Instructor) 
+# Introduction to the course and its notes 
+## (Instructor - Rahul Shetty)
+
+
+

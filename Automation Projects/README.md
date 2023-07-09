@@ -33,3 +33,11 @@
     - Summary
         - Link to condesed Code
         - Additional Reading
+
+
+# Topic : Udemy / Selenium Webdriver with Python from Scratch and Framework 
+        - Course by Rahul Shetty covering the fundementals of Selenoum webdriver and its frameworks
+        - Section 1 : Python Notes
+        - Section 2 : Installtion for Pythin and selenium Notes
+        - Section 3 : Python Basics 
+        - 
