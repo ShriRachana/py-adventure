@@ -11,6 +11,5 @@
         - Website : www.shrirachana.com
 
 # Resume : 
-    - https://drive.google.com/file/d/1tA-rVr7Yj6Iel-vg4C3BTN1u-29TweV_/view?usp=sharing 
-
-    
+![Resume](https://github.com/ShriRachana/py-adventure/blob/main/Hire%20Me%20-%20Resume/Shri_Rachana_Rajasekaran_Resume-1.jpg)
+!(https://github.com/ShriRachana/py-adventure/blob/main/Hire%20Me%20-%20Resume/Shri_Rachana_Rajasekaran_Resume-2.jpg)
