@@ -89,9 +89,11 @@
 <hr/>
 <br/>
 
+## Stats
+
 <p align="center">
   <a href="https://github.com/ShriRachana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriRachana" alt="Shri Rachana's Github streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShriRachana&theme=radical" alt="Shri Rachana's Github streak"/>
   </a>
 </p>
 
