@@ -35,7 +35,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="https://github.com/ShriRachana/py-adventure/blob/main/GitHub_Image.jpeg" alt="Coding gif" />
   
  ✌️ &emsp; I enjoy everyday puzzles, hard engineering questions and neuroscience. I throughly enjoy breaking everything down to the basics, and work my way through it. <br/><br/>
  ❤️ &emsp; First principles for the win !<br/><br/>
