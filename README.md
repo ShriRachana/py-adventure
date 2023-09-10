@@ -79,6 +79,9 @@
 </br>
 
 ![Hire Me - Resume - https://github.com/ShriRachana/py-adventure/tree/main/Hire%20Me%20-%20Resume](https://img.shields.io/badge/Hire%20Me%20-%20Resume-gg6f00)
+<ul>
+<li> Resume in pdf </li>
+</ul>
 </br>
 
 ![ML and Automation Repository - https://github.com/ShriRachana/py-adventure/tree/main/ML%20and%20Automation%20Repository](https://img.shields.io/badge/ML%20and%20Automation%20Repository-ff6f00)
