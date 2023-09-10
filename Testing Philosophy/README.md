@@ -24,11 +24,7 @@
   
    <a href="place-holder" target="blank"><strong>Test Plan</strong></a></br>
    <a href="place-holder" target="blank"><strong>Test Case</strong></a></br>
-  
-
    <a href="place-holder" target="blank"><strong>Test Matrix</strong></a></br>
-  
-
    <a href="place-holder" target="blank"><strong>Automation Roadmap</strong></a></br>
 
 
