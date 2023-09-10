@@ -70,11 +70,9 @@
 
 ## Top Repos 
 ![Algorithms Repository - https://github.com/ShriRachana/py-adventure/tree/main/Algorithms%20Repository](https://img.shields.io/badge/Algorithms%20Repository-ff6f00)
-</br>
-<ul>
-<li>Algos Practice</li>
-<li>Interview Kickstarter</li>
-</ul>
+### Algos Practice
+### Interview Kickstarter
+
 </br>
 ![Hire Me - Resume - https://github.com/ShriRachana/py-adventure/tree/main/Hire%20Me%20-%20Resume](https://img.shields.io/badge/Hire%20Me%20-%20Resume-gg6f00)
 </br>
