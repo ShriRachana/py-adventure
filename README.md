@@ -8,10 +8,10 @@
                 <b><a target="_blank" href="https://www.shrirachana.com/">Shri Rachana Rajasekaaran</a></b>
         </samp>
 </h3>
-<p align="center"> 
+<p align="left"> 
 <img src="https://github.com/ShriRachana/py-adventure/blob/main/GitHub_Image.jpeg" width="255">
 </p>
-<p align="center"> 
+<p align="right"> 
   <samp>
     <a href="https://www.google.com/search?q=Shri+Rachaan+Rajasekaran">「 Google Me 」</a>
     <br>
