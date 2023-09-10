@@ -1,26 +1,22 @@
-# Topic : Test Strategy
-    - Summary
-        - Template
-    - Additional Reading material 
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7083931795682983936" height="1549" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-# Topic : Test Plan
-    - Summary
-        - Template
-    - Additional Reading material 
-# Topic : Test Case   
-    - Summary
-        - Template
-    - Additional Reading material 
-# Topic : Bug Report
-    - Summary
-        - Template
-    - Additional Reading material 
-# Topic : Test Matrix
-    - Summary
-        - Template
-    - Additional Reading material
-# Topic : How To
-    - Test Driven Development
-    - Unit Tests
-    - Automation Road mapping 
-    - Manual Test Case review cadence
+<h3 align="center">Testing Philosophy</h3>
+
+  <p align="center">
+    Easy to read LinkedIn to jumpstart your discussions!
+    <br />
+    <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7083931796488273920-QAAs?utm_source=share&utm_medium=member_desktop"><strong>Bug Report</strong></a>
+    <br />
+    <br />
+    <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7083931796488273920-QAAs?utm_source=share&utm_medium=member_desktop"><strong>Test Plan</strong></a>
+    <br />
+    <br />
+    <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7083931796488273920-QAAs?utm_source=share&utm_medium=member_desktop"><strong>Test Case</strong></a>
+    <br />
+    <br />
+    <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7083931796488273920-QAAs?utm_source=share&utm_medium=member_desktop"><strong>Test Matrix</strong></a>
+    <br />
+    <br />
+    <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7083931796488273920-QAAs?utm_source=share&utm_medium=member_desktop"><strong>Automation Road Mapping</strong></a>
+    <br />
+
+</p>
+</div>
