@@ -78,7 +78,7 @@
 <br/>
 
 ## Top Projects -
-[![Algorithms Repository](https://github.com/ShriRachana/py-adventure/tree/main/Algorithms%20Repository)
+[![Algorithms Repository](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)(https://github.com/ShriRachana/py-adventure/tree/main/Algorithms%20Repository)
 [![Hire Me - Resume](Placeholder)](https://github.com/ShriRachana/py-adventure/tree/main/Hire%20Me%20-%20Resume)
 [![ML and Automation Repository](Placeholder)](https://github.com/ShriRachana/py-adventure/tree/main/ML%20and%20Automation%20Repository)
 [![Testing Philosophy](Placeholder)](https://github.com/ShriRachana/py-adventure/tree/main/Testing%20Philosophy)
