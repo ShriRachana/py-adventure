@@ -1,6 +1,6 @@
 <h2 align="center">
   Welcome to my learning and coding journey!
-  <img src="image-placeholder" width="28">
+  <img src="https://github.com/ShriRachana/py-adventure/blob/main/GitHub_Image.jpeg" width="28">
 </h2>
 
 
