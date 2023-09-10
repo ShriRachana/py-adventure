@@ -45,7 +45,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Used To Code
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,9 +68,13 @@
 ![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 <br/>
 
-## Top Projects 
+## Top Repos 
 ![Algorithms Repository - https://github.com/ShriRachana/py-adventure/tree/main/Algorithms%20Repository](https://img.shields.io/badge/Algorithms%20Repository-ff6f00)
 </br>
+<ul>
+<li>Algos Practice</li>
+<li>Interview Kickstarter</li>
+</ul>
 ![Hire Me - Resume - https://github.com/ShriRachana/py-adventure/tree/main/Hire%20Me%20-%20Resume](https://img.shields.io/badge/Hire%20Me%20-%20Resume-gg6f00)
 </br>
 ![ML and Automation Repository - https://github.com/ShriRachana/py-adventure/tree/main/ML%20and%20Automation%20Repository](https://img.shields.io/badge/ML%20and%20Automation%20Repository-ff6f00)
