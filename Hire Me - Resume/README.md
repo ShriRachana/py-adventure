@@ -1,6 +1,6 @@
 # Topic : Experience
     - Summary
-        - Resume : <a href="https://github.com/ShriRachana/py-adventure/blob/main/Hire%20Me%20-%20Resume/Shri_Rachana_Rajasekaran_Resume.pdf" Resume </a>ß
+        - Resume : https://github.com/ShriRachana/py-adventure/blob/main/Hire%20Me%20-%20Resume/Shri_Rachana_Rajasekaran_Resume.pdf 
 
 # Topic : Immigration
     - Summary : H1B with an approved I-140
@@ -9,3 +9,6 @@
     - E-mail : shrirachanar@gmail.com 
         - LinkedIn : https://www.linkedin.com/in/shrirachana/
         - Website : www.shrirachana.com
+
+# Resume : 
+    - https://drive.google.com/file/d/1tA-rVr7Yj6Iel-vg4C3BTN1u-29TweV_/view?usp=sharing 
