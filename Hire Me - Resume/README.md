@@ -1,6 +1,6 @@
 # Topic : Experience
     - Summary
-        - Resume : https://github.com/ShriRachana/py-adventure/blob/main/Hire%20Me%20-%20Resume/Shri_Rachana_Rajasekaran_Resume.pdf
+        - Resume : <a href="https://github.com/ShriRachana/py-adventure/blob/main/Hire%20Me%20-%20Resume/Shri_Rachana_Rajasekaran_Resume.pdf" Resume </a>ß
 
 # Topic : Immigration
     - Summary : H1B with an approved I-140
