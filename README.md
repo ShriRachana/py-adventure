@@ -85,10 +85,7 @@
 ![ML and Automation Repository - https://github.com/ShriRachana/py-adventure/tree/main/ML%20and%20Automation%20Repository](https://img.shields.io/badge/ML%20and%20Automation%20Repository-ff6f00)
 </br>
 ![Testing Philosophy - https://github.com/ShriRachana/py-adventure/tree/main/Testing%20Philosophy](https://img.shields.io/badge/Testing%20Philosophy-ff6f00)
-<br/>
-<hr/>
-<br/>
-<br/>
+</br>
 
 
 ## Stats
