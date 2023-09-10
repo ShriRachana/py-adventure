@@ -71,15 +71,29 @@
 ## Top Repos 
 ![Algorithms Repository - https://github.com/ShriRachana/py-adventure/tree/main/Algorithms%20Repository](https://img.shields.io/badge/Algorithms%20Repository-ff6f00)
 <ul>
-<li>Algos Practice</li>
-</ul>
-### Interview Kickstarter
+<li> Algos Practice</li>
+<li> Interview Kickstarter - General Interview Prep</li>
+<li> Leetcode </li>
+<li> Self-Taught Programmer</li>
+<ul>
 </br>
 
 ![Hire Me - Resume - https://github.com/ShriRachana/py-adventure/tree/main/Hire%20Me%20-%20Resume](https://img.shields.io/badge/Hire%20Me%20-%20Resume-gg6f00)
 </br>
 
 ![ML and Automation Repository - https://github.com/ShriRachana/py-adventure/tree/main/ML%20and%20Automation%20Repository](https://img.shields.io/badge/ML%20and%20Automation%20Repository-ff6f00)
+</br>
+<ul>
+<li> API</li>
+<li> Interview Kickstarter - ML Upskill</li>
+<li> Appium </li>
+<li> Freecodecamp - Python</li>
+<li> Jenkins</li>
+<li> ML Math implemented in Python</li>
+<li> Random Practice - POV</li>
+<li> Udacity Python</li>
+<li> Udemy</li>
+<ul>
 </br>
 
 ![Testing Philosophy - https://github.com/ShriRachana/py-adventure/tree/main/Testing%20Philosophy](https://img.shields.io/badge/Testing%20Philosophy-ff6f00)
