@@ -1,20 +1,11 @@
 <h2 align="center">
   Welcome to my learning and coding journey!
-  <img src="https://github.com/ShriRachana/py-adventure/blob/main/GitHub_Image.jpeg" width="125">
 </h2>
 
-
-<!--
-<p align="center">
-  <a href="https://github.com/ShriRachana/py-adventure"><img src="image-placeholder"></a>
-</p>
-
- -->
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://www.shrirachana.com/">Shri Rachana Rajasekaaran</a></b>
-        
         </samp>
 </h3>
 <p align="center"> 
