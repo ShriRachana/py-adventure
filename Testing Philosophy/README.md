@@ -21,8 +21,8 @@
    <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7083931796488273920-QAAs?utm_source=share&utm_medium=member_desktop" target="blank"><strong>Bug Report</strong></a>
 
 </br>
-  
-   <a href="place-holder" target="blank"><strong>Test Plan</strong></a></br>
+  <a href="https://www.linkedin.com/posts/shrirachana_qa-quality-activity-7108281283826352129-79-1?utm_source=share&utm_medium=member_desktop" target="blank"><strong>Test Plan</strong></a>  
+</br>
    <a href="place-holder" target="blank"><strong>Test Case</strong></a></br>
    <a href="place-holder" target="blank"><strong>Test Matrix</strong></a></br>
    <a href="place-holder" target="blank"><strong>Automation Roadmap</strong></a></br>
