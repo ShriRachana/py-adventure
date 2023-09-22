@@ -77,14 +77,3 @@ def reverse_array(nums):
     nums.reverse()
     return nums
 '''
-
-
-def reverse_array(nums):
-    """
-    Args:
-     nums(list_int32)
-    Returns:
-     list_int32
-    """
-    nums.reverse()
-    return nums
