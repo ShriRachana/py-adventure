@@ -54,5 +54,14 @@ Go through the basics of Python to be able to start translating actions I want t
     - c1 = 'matt' #string 
     - c2 = "Shri" #string 
     - d = True #boolean (True/False)
-    
 
+
+## Example : Reverse an array 
+ - Reverse An Array- Reverse a given list of numbers.
+ - Example 1 : {"nums": [50, 35, 78, 66, 17]} || Output: [17, 66, 78, 35, 50]
+ - Example 2: {"nums": [50, 40, 30, 20]} || Output: [20, 30, 40, 50]
+    - Notes: Modify the input array in-place and return the modified array.
+    - Constraints:
+        - 1 <= size of the input array <= 106
+        - 0 <= any element of the input array <= 106
+- https://github.com/ShriRachana/py-adventure/blob/a72cd1c8a2b87bfa97ad6768488baf7a469d2e32/ML%20and%20Automation%20Repository/Interview%20Kickstarter%20-%20ML%20Upskill/reverse-an-array.py
