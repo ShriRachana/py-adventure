@@ -65,7 +65,7 @@ Go through the basics of Python to be able to start translating actions I want t
         - 1 <= size of the input array <= 106
         - 0 <= any element of the input array <= 106
 - [**code-snippet**](https://github.com/ShriRachana/py-adventure/blob/a72cd1c8a2b87bfa97ad6768488baf7a469d2e32/ML%20and%20Automation%20Repository/Interview%20Kickstarter%20-%20ML%20Upskill/reverse-an-array.py)
-
+'''
 def reverse_array(nums):
     """
     Args:
@@ -75,5 +75,5 @@ def reverse_array(nums):
     """
     nums.reverse()
     return nums
-
+'''
     https://github.com/ShriRachana/py-adventure/blob/a72cd1c8a2b87bfa97ad6768488baf7a469d2e32/ML%20and%20Automation%20Repository/Interview%20Kickstarter%20-%20ML%20Upskill/reverse-an-array.py#L34-L42
