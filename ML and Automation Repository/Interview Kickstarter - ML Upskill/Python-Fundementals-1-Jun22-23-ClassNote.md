@@ -49,10 +49,10 @@ Go through the basics of Python to be able to start translating actions I want t
     - variable names are case-sensitive 
 
 - Examples : 
-    a = 10 #integer 
-    b = 6.8 #float 
-    c1 = 'matt' #string 
-    c2 = "Shri" #string 
-    d = True #boolean (True/False)
-
+    - a = 10 #integer 
+    - b = 6.8 #float 
+    - c1 = 'matt' #string 
+    - c2 = "Shri" #string 
+    - d = True #boolean (True/False)
     
+
