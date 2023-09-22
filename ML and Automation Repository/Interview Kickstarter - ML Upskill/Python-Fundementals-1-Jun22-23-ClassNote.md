@@ -34,7 +34,25 @@ Go through the basics of Python to be able to start translating actions I want t
 - Python was designed for readability. '
 - It is easier to learn and use to develop modeles for machine learning. 
 ### Libraries and frameworks variety 
-- 
+- Python frameworks and libraries offer a reliable environment that reduces software development tine significantly. 
 ### Independence across platforms 
-
+- Python runs across different platforms, which allows developer to develop as the only language and save time and resource for developers. 
 ### Great community and popularity 
+- Python developer exchange forums are active in promoting the growth of the AI community as a whole. 
+
+## Variable 
+- Variables are contained for storing data values 
+    - Python has no command for declaring a variable 
+    - A variable is cretaed the moment you first assigb a value to it. 
+    - Variables do not need to be declarred with any paticular 'type' and can even change type after they have been set. 
+    - Casting can help specify or change type of a variable 
+    - variable names are case-sensitive 
+
+- Examples : 
+    a = 10 #integer 
+    b = 6.8 #float 
+    c1 = 'matt' #string 
+    c2 = "Shri" #string 
+    d = True #boolean (True/False)
+
+    
