@@ -56,22 +56,29 @@ Python Fundamentals - 1 Class Slides & Notes (Dated : Jun2 22,2023)
     - b = 6.8 #float 
     - c1 = 'matt' #string 
     - c2 = "Shri" #string 
-    - d = True #boolean (True/False)
-    - x = str(3) # x will be '3' 
-    - y = int(3) # y will be 3 
-    - print(y, type(y)) 
-    - z = float( 3) # z will be 3.0 
-    - print(z, type(z)) 
+    - d = True #boolean (True/False) 
+- Other Examples : 
     - a = 1 
     - A = "Hello World" 
     - print(a, type(a)) 
     - print(A, type(A)
-
+- Good to know : 
     - How to check variable’s type? 
     - How to change variable’s type? 
     - How to define a positive or negative infinity? 
     - How to convert float to int in floor and ceil?
 
+### Camel Case 
+- Each word, except the first, starts with a capital letter:
+    - exampleVariableName 
+
+### Pascal Case 
+- Each word, except the first, starts with a capital letter:
+    - exampleVariableName
+
+### Snake Case 
+- Each word, except the first, starts with a capital letter:
+    - exampleVariableName
 
 
 ## Example : Reverse an array 
