@@ -1,6 +1,9 @@
 # Agenda 
 Go through the basics of Python to be able to start translating actions I want to system to do into code. 
 
+### Sub-Note 
+Python Fundamentals - 1 Class Slides & Notes (Dated : Jun2 22,2023)
+
 ## Basic programming condepts with Python 
 1. Variables 
 2. Data Types(&typecasting) conversion of one data type into another is typecasting/typeconversion in python.
@@ -54,6 +57,21 @@ Go through the basics of Python to be able to start translating actions I want t
     - c1 = 'matt' #string 
     - c2 = "Shri" #string 
     - d = True #boolean (True/False)
+    - x = str(3) # x will be '3' 
+    - y = int(3) # y will be 3 
+    - print(y, type(y)) 
+    - z = float( 3) # z will be 3.0 
+    - print(z, type(z)) 
+    - a = 1 
+    - A = "Hello World" 
+    - print(a, type(a)) 
+    - print(A, type(A)
+
+    - How to check variable’s type? 
+    - How to change variable’s type? 
+    - How to define a positive or negative infinity? 
+    - How to convert float to int in floor and ceil?
+
 
 
 ## Example : Reverse an array 
