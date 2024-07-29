@@ -1,3 +1,10 @@
+# Technical Books: 
+1. Python Crash course - E ric Matthers   
+    - Notes added in seperate file : 
+2. Self taught programmer
+3. Automate the boring stuff
+4. System Design 
+
 # Non-Fiction : 
     Below is the list of books and scroll further down to read the reviews
 ### 2024 : 
@@ -5,7 +12,6 @@
 2. Untamed
 3. Outlive
 4. Never split the difference
-
 
 ### Pre- 2024 : 
 1. The Power of Habit

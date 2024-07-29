@@ -4,12 +4,12 @@
 
 <!-- Intro  -->
 <h3 align="center">
-         <b><a target="_blank" href="https://www.linkedin.com/in/shrirachana/">Easy to read LinkedIn to jumpstart your discussions!</a></b>
+         <b><a target="_blank" href="https://www.linkedin.com/in/shrirachana/">Trust that the code has been written well, but verify!</a></b>
 </h3>
 <p align="center"> 
   <samp>
      <br>
-     Having worked in Hardware and software companies in multiple industries. I have come to understand that some of the testing philosophies cover standards across industries. Below are a list of guidelines for a test engineer.
+     Below are a list of guidelines for a test engineer.
      <br>
      Always have automation as the fore-front of all testing activities. It it the best way to scale for products.
     <br>

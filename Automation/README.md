@@ -1,38 +1,21 @@
+# Topic : API
+    - Manual API testcases
+    - Automated API testcases 
 # Topic : Appium
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
-# Topic : API testing
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
-# Topic : ADB Commands
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
-# Topic : Performance
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
-# Topic : Jenkins
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
+    - Project 1 : Basics
+    - Project 2 : Geolocation based 
+# Topic : Interview Questions 
+    - Read further in the section
 # Topic : Selenium
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
-# Topic : TOSCA
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
+    - TBD
+# Topic : Performance
+    - TBD
+# Topic : Testing Philosophy
+    - TBD
 # Topic : Automation Road Map Template
-    - Summary
-        - Additional Reading
-# Topic : Fun courses and Refreshers
-    - Summary
-        - Link to condesed Code
-        - Additional Reading
+    - TBD
+# Topic : Backend Testing
+    - TBD
 
 
 # Topic : Udemy / Selenium Webdriver with Python from Scratch and Framework 
