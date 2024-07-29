@@ -6,6 +6,7 @@
         2. Intermediate programer is one who is able to write tests for their own code. 
         3. Python comes with an interpreter. 
         4. Refer to : [Hello-Eathlings](https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
+        4. Refer to : <b><a target="_blank" href="https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py">Hello Earthlings</a></b>
 
 # Topic : Variables and Simple Data Types 
     - Section 1 : Naming and Using Variables 
