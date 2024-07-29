@@ -13,7 +13,7 @@
   <samp>
   <!--  <a href="https://www.google.com/search?q=Shri+Rachaan+Rajasekaran">「 Google Me 」</a> -->
      <br>
-     I am a <b>Software Quality Assurance Engineer</b> with a background in working with hardware devices and software relreases. I am currently working on a machine learning team in the Medical Devices industry.I am currently based out of the Bay Area, California <b>on a work visa</b> 
+     I am a <b>Senior Software Quality Assurance Engineer</b> and have 8.5 years experience with hardware devices and software relreases. I am currently working on a machine learning team in the Medical Devices industry.I am based out of the Bay Area, California <b>on a work visa</b> 
     <br>
     <br>
   </samp>
