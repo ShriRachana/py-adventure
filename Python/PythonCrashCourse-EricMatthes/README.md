@@ -5,8 +5,8 @@
         1. Function - write blocks of code that perform certain actions once, when you can use them as many times as you like.
         2. Intermediate programer is one who is able to write tests for their own code. 
         3. Python comes with an interpreter. 
-        4. Code Snippet : [Hello - Earthlings](Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
-Go [here](https://github.com/Akuli/python-tutorial) if you aren't here already.
+        4. Code Snippet : [Hello - Earthlings]
+Code Snippet [Hello - Earthlings](Python/PythonCrashCourse-EricMatthes/helloEarthlings.py) 
 
 
 
