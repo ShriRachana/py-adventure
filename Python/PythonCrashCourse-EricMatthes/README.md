@@ -5,8 +5,9 @@
         1. Function - write blocks of code that perform certain actions once, when you can use them as many times as you like.
         2. Intermediate programer is one who is able to write tests for their own code. 
         3. Python comes with an interpreter. 
-        4. Code Snippet : [Hello - Earthlings]
-Code Snippet [Hello - Earthlings](Python/PythonCrashCourse-EricMatthes/helloEarthlings.py) 
+        4. Code Snippet : 
+[Hello - Earthlings](Python/PythonCrashCourse-EricMatthes/helloEarthlings.py) 
+        5. Python is a cross- platform programming language and it runs on all the major operating systems. 
 
 
 
