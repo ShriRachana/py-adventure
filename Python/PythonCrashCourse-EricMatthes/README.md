@@ -7,7 +7,7 @@
         3. Python comes with an interpreter. 
         4. Refer to : [Hello-Eathlings]<https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py>
         4. Refer to : [Hello - Earthlings] (https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
-        4. Refer to : [Hello - Earthlings](https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
+        [Hello - Earthlings](https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
 
 # Topic : Variables and Simple Data Types 
     - Section 1 : Naming and Using Variables 
