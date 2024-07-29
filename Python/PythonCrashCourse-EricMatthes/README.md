@@ -8,6 +8,11 @@
         4. Refer to : [Hello-Eathlings]<https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py>
         4. Refer to : [Hello - Earthlings] (https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
         [Hello - Earthlings](https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
+        [I'm an inline-style link](https://www.google.com)
+
+[I'm an inline-style link with title](https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py"Hello Earthlings")
+
+
 
 # Topic : Variables and Simple Data Types 
     - Section 1 : Naming and Using Variables 
