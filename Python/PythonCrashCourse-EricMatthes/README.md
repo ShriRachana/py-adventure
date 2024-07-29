@@ -1,0 +1,17 @@
+# Topic : Getting Started 
+    - Section 1 : Install Python and execute 'hello earthlings' from you machine
+`#RRGGBB` General Notes : 
+1. Function - write blocks of code that perform certain actions once, when you can use them as many times as you like.
+2. 
+# Topic : Variables and Simple Data Types 
+    - Section 1 : Naming and Using Variables 
+        - Link to condesed Code
+        - Additional Reading
+    - Section 2 : Naming and Using Strings
+        - Link to condesed Code
+        - Additional Reading
+# Topic : Lists
+    - Section 1 : Install Python and execute 'hello earthlings' from you machine
+        - Link to condesed Code
+        - Additional Reading
+
