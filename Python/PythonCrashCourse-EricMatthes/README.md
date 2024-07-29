@@ -1,6 +1,6 @@
 # Topic : Getting Started 
-    - Section 1 : Install Python and execute 'hello earthlings' from you machine
-#RRGGBB General Notes : 
+    Section 1 : Install Python and execute 'hello earthlings' from you machine
+General Notes : 
 1. Function - write blocks of code that perform certain actions once, when you can use them as many times as you like.
 2. 
 # Topic : Variables and Simple Data Types 
