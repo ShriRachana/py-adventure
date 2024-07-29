@@ -1,10 +1,11 @@
 # Topic : 1.Sclae from Zero to millions of users 
-## Section 1 : 
-Install Python and execute 'hello earthlings' from you machine
+Designing a system requires that we continuously refine and endlesslu improve. 
+## Single Server setup : 
+1. Everything in a single server setup runs on one server which includes the web app, database , cache etc. 
+2. ![Check single server below][]
+3. As a user, I type in 'http://api.mysite.com' (domain name) into a browser, the DNS is provided by a 3rd party that returns an IP to the browser. 
+4. The IP's request (HTTP) to the web browser 
+5. Web browser returns HTML/JSON that is rendered. 
 ### General Notes : 
-1. Function - write blocks of code that perform certain actions once, when you can use them as many times as you like.
-2. Intermediate programer is one who is able to write tests for their own code. 
-3. Python comes with an interpreter. 
-4. Code Snippet : [Hello - Earthlings](https://github.com/ShriRachana/py-adventure/blob/main/Python/PythonCrashCourse-EricMatthes/helloEarthlings.py) 
-5. Python is a cross- platform programming language and it runs on all the major operating systems.
-6. Linux systems are designed for prgramming so python is already installed on the computer. 
+1. Traffic to the web browser somes from web application and mobile application. 
+2. 
