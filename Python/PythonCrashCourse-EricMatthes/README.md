@@ -6,7 +6,7 @@
         2. Intermediate programer is one who is able to write tests for their own code. 
         3. Python comes with an interpreter. 
         4. Code Snippet : [Hello - Earthlings](Python/PythonCrashCourse-EricMatthes/helloEarthlings.py)
-        1. Go [here](https://github.com/Akuli/python-tutorial) if you aren't here already.
+Go [here](https://github.com/Akuli/python-tutorial) if you aren't here already.
 
 
 
