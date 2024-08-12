@@ -12,6 +12,7 @@
 2. Untamed
 3. Outlive
 4. Never split the difference
+5. How to Love
 
 ### Pre- 2024 : 
 1. The Power of Habit
