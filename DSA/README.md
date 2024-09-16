@@ -1,4 +1,7 @@
-# Topic : 2 pointer
-    - Summary provided in 2pointer.py
-        - Solution contains Brute force and design pattern
-# Topic : Hash Map
+# Question 1 : TwoSum 
+Solutions : 
+Approach 1 - Brute Force : py-adventure\DSA\2SumApproach1.py
+Approach 2 - 2 Pass Hash table 
+Approach 3 - 1 Pass Hash table 
+
+# Question 2 : 
