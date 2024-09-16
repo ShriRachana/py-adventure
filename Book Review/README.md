@@ -14,6 +14,7 @@
 4. Never split the difference
 5. How to Love
 6. Obama - Autobiography
+7. The elephant in the brian
 
 ### Pre- 2024 : 
 1. The Power of Habit
